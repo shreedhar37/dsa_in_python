@@ -1,4 +1,4 @@
-# Linkedlist implementation of stack.
+# deque implementation of stack.
 
 from collections import deque
 
